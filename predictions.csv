@@ -1,0 +1,431 @@
+,clause_text,clause_type,Prediction,Prediction_clause_type
+0,"Any provision for the benefit of the Company contained in this Agreement may be waived, either generally or in any particular instance, by the Board.",Waivers,"{""clause_type"": ""Waivers""}",Waivers
+1,If a party waives any of its rights on any one or more occasions it will not be deemed to be a waiver of that party’s rights on any other occasion.,Waivers,"{""clause_type"": ""Waivers""}",Waivers
+2,Waiver by one party hereto or breach of any provision of this Agreement by the other will not operate or be construed as a continuing waiver.,Waivers,"{""clause_type"": ""Waivers""}",Waivers
+3,The provisions of this Article 13 supersede the provisions of any applicable Laws with respect to the subject matter of this Article 13 .,Waivers,"{""clause_type"": ""No Other""}",No Other
+4,The Company’s obligations under this Section 10 may be waived at any time by prior written consent of the Majority Holders.,Waivers,"{""clause_type"": ""Waivers""}",Waivers
+5,"ERISA means the Employee Retirement Income Security Act of 1974, as amended, and includes applicable DOL regulations.",Erisa,"{""clause_type"": ""ERISA""}",ERISA
+6,"Employee Retirement Income Security Act of 1974, as amended, and the rules and regulations promulgated thereunder.",Erisa,"{""clause_type"": ""ERISA""}",ERISA
+7,Create or maintain any Pension Plans or incur any withdrawal liability to any Multiemployer Plan (as defined in Section 5.13 ).,Erisa,"{""clause_type"": ""Pensions""}",Pensions
+8,"The Employee Retirement Income Security Act of 1974, as amended from time to time, and as interpreted by applicable regulations and rulings.",Erisa,"{""clause_type"": ""ERISA""}",ERISA
+9,Neither the Company nor any of its Subsidiaries is subject to ERISA or maintains any Foreign Benefit Plan.,Erisa,"{""clause_type"": ""Benefit Plans""}",Benefit Plans
+10,"This Agreement may be executed in any number of counterparts, all of which together shall constitute a single Agreement.",Counterparts,"{""clause_type"": ""Counterparts""}",Counterparts
+11,"This Amendment may be executed in any number of counterparts, each of which shall be considered an original.",Counterparts,"{""clause_type"": ""Counterparts""}",Counterparts
+12,This Employment Agreement may be executed in more than one (1) counterpart and each counterpart shall be considered an original.,Counterparts,"{""clause_type"": ""Counterparts""}",Counterparts
+13,"This Lease may be executed in one or more duplicate counterparts, each of which shall when taken together be deemed to be a fully executed original.",Counterparts,"{""clause_type"": ""Counterparts""}",Counterparts
+14,This AGREEMENT may be signed in counterparts and said counterparts shall be treated as though signed as one document.,Counterparts,"{""clause_type"": ""Counterparts""}",Counterparts
+15,The parties agree to promptly sign all documents reasonably requested to give effect to the provisions of this Amendment.,Further Assurances,"{""clause_type"": ""Signatures""}",Signatures
+16,"The Borrower agrees to promptly take such action, upon the request of the Agent, as is necessary to carry out the intent of this Amendment.",Further Assurances,"{""clause_type"": ""Actions""}",Actions
+17,The Loan Parties and the Administrative Agent agree to promptly take such actions as may be necessary to carry out the intent of this Amendment.,Further Assurances,"{""clause_type"": ""Further Assurances""}",Further Assurances
+18,TPB and each Holder will take such actions as may be reasonably required or desirable to carry out the provisions of this Agreement.,Further Assurances,"{""clause_type"": ""Actions""}",Actions
+19,"The Borrower agrees to promptly take such action, upon the request of the Bank, as is necessary to carry out the intent of this Amendment.",Further Assurances,"{""clause_type"": ""Further Assurances""}",Further Assurances
+20,"Effective as of July 1, 2016, Section 2(a) of the Agreement is hereby amended by deleting “$230,000” therefrom and replacing it with “$275,000”.",Base Salary,"{""clause_type"": ""Amendments""}",Amendments
+21,"As compensation for the performance of the duties hereunder, the Company shall pay to Employee an annual Base Salary of $1,000,000.",Base Salary,"{""clause_type"": ""Compensation""}",Compensation
+22,"Until the Retirement Date, Executive shall continue to receive his base salary that was in effect on the date of this Agreement.",Base Salary,"{""clause_type"": ""Compensation""}",Compensation
+23,The Employee’s highest annual base salary in effect during the two-year period immediately preceding the Date of Termination.,Base Salary,"{""clause_type"": ""Base Salaries""}",Base Salaries
+24,Means a Participant's base salary as properly paid or accrued for the 12 month period which ends on the date of his or her Separation from Service.,Base Salary,"{""clause_type"": ""Means""}",Means
+25,All communications and notices provided for hereunder shall be provided in the manner described in Section 11.3 of the Second Tier Agreement.,Notices,"{""clause_type"": ""Notices""}",Notices
+26,The Bank shall have received the Borrower’s request for such Revolving Loan as required under Section 2.2.,Notices,"{""clause_type"": ""Requests""}",Requests
+27,Notices delivered in connection with this Guaranty shall be given in accordance with Section 10.04 of the PC Repurchase Agreement.,Notices,"{""clause_type"": ""Notices""}",Notices
+28,The cure period and notice provisions set forth in the Credit Agreement shall be applicable to any Default under this Collateral Assignment.,Notices,"{""clause_type"": ""Cure Periods""}",Cure Periods
+29,All notices and other communications provided for or permitted hereunder shall be made as set forth in Section 4.11 of the Credit Agreement.,Notices,"{""clause_type"": ""Notices""}",Notices
+30,Seller shall make copies of the Records available for pick-up by Buyer within five (5) business days after the Closing Date.,Records,"{""clause_type"": ""Records""}",Records
+31,"Keep proper books, records and accounts which permit financial statements to be prepared in accordance with GAAP.",Records,"{""clause_type"": ""Books""}",Books
+32,"Without limiting the foregoing, Section 7.07 of the Separation Agreement is hereby incorporated into this Agreement mutatis mutandis .",Records,"{""clause_type"": ""Limitations""}",Limitations
+33,The Committee will be responsible for maintaining sufficient records to determine each Participant’s eligibility to participate in the Plan.,Records,"{""clause_type"": ""Records""}",Records
+34,"Seller shall deliver the Records to Buyer promptly after Closing, but in any case no later than ten days after the Closing Date.",Records,"{""clause_type"": ""Records""}",Records
+35,"A certificate, undertaking, and indemnity of Purchaser for HST/GST purposes in the form of Exhibit O .",Indemnity,"{""clause_type"": ""Taxes""}",Taxes
+36,The representations and warranties of Buyer contained in Article IV shall be true and correct in all respects.,Warranties,"{""clause_type"": ""Representations""}",Representations
+37,The representations and warranties of the Stockholder contained herein shall not survive the Termination Date.,Warranties,"{""clause_type"": ""Survival""}",Survival
+38,An instrument certifying that Seller’s representations and warranties set forth in Section 8 above are true and correct as of the Closing Date.,Warranties,"{""clause_type"": ""Representations""}",Representations
+39,"A certificate executed by Seller, reaffirming and updating to the Closing Date the representations and warranties given by Seller under Section 7.1.",Warranties,"{""clause_type"": ""Representations""}",Representations
+40,"The representations and warranties of the respective parties shall survive the Closing or termination of this Agreement, as the case may be.",Warranties,"{""clause_type"": ""Survival""}",Survival
+41,"This Agreement shall be governed by, construed and enforced in accordance with the laws of the State of California .",Governing Laws,"{""clause_type"": ""Governing Laws""}",Governing Laws
+42,This Subscription Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Kentucky.,Governing Laws,"{""clause_type"": ""Governing Laws""}",Governing Laws
+43,"This Amendment No. 11 shall be governed by, and construed in accordance with, the law of the State of New York.",Governing Laws,"{""clause_type"": ""Governing Laws""}",Governing Laws
+44,"The provisions of the Plan shall be construed, administered and enforced according to applicable Federal law and the laws of State of Georgia.",Governing Laws,"{""clause_type"": ""Construction""}",Construction
+45,"This Plan shall be regulated, construed and administered under the laws of the State of Texas, except when preempted by federal law.",Governing Laws,"{""clause_type"": ""Governing Laws""}",Governing Laws
+46,"As a term of your employment and a condition to this offer, you must execute Vocera’s Arbitration Agreement as attached hereto.",Arbitration,"{""clause_type"": ""Arbitration""}",Arbitration
+47,"Upon the date of your employment transfer to the United States, you will be subject to the arbitration requirements in this Paragraph 20.",Arbitration,"{""clause_type"": ""Arbitration""}",Arbitration
+48,"By signing this letter agreement, and as a condition to your employment with the Company, you agree to sign the enclosed Arbitration Agreement.",Arbitration,"{""clause_type"": ""Arbitrations""}",Arbitrations
+49,The Parties agree that Section 12 of the Employment Agreement shall govern any disputes regarding this Agreement.,Arbitration,"{""clause_type"": ""Arbitration""}",Arbitration
+50,"All disputes, claims, and controversies arising from this Amendment shall be arbitrated in accordance with Section 7.15 of the Credit Agreement.",Arbitration,"{""clause_type"": ""Arbitration""}",Arbitration
+51,Neither this Agreement nor any rights of the parties hereto may be assigned or delegated to any other Person.,Assignments,"{""clause_type"": ""Assignments""}",Assignments
+52,Your rights and obligations under this letter agreement are personal to you and may not be transferred by you by assignment or otherwise.,Assignments,"{""clause_type"": ""Assignments""}",Assignments
+53,This Agreement may not be assigned by any party without the prior written consent of the other parties.,Assignments,"{""clause_type"": ""Assignments""}",Assignments
+54,"This Agreement is binding upon, and inures to the benefit of, the parties and their respective successors and assigns.",Assignments,"{""clause_type"": ""Successors""}",Successors
+55,This Agreement shall be binding upon and inure to the benefit of the Company’s successors and assigns.,Assignments,"{""clause_type"": ""Successors""}",Successors
+56,The Arranger and the Lenders shall have received the financial statements described in Section 3.04(a) and the Projections.,Financial Statements,"{""clause_type"": ""Financial Statements""}",Financial Statements
+57,"The Holders shall have received the Company’s draft internally prepared financial statements for the fiscal quarter ended June 30, 2016.",Financial Statements,"{""clause_type"": ""Financial Statements""}",Financial Statements
+58,The Administrative Agent and the Lenders shall have received copies of the financial statements referred to in Section 5.05.,Financial Statements,"{""clause_type"": ""Financial Statements""}",Financial Statements
+59,The Administrative Agent shall have received the monthly operating report referred to in Section 7.04(a) .,Financial Statements,"{""clause_type"": ""Reports""}",Reports
+60,Delivery to Administrative Agent of the financial statements required to be delivered pursuant to Section 5.4 .,Financial Statements,"{""clause_type"": ""Deliveries""}",Deliveries
+61,"Any actual, pending, or threatened litigation including but not limited to such matters as set forth on Schedule 5.1.6 .",Litigations,"{""clause_type"": ""Litigations""}",Litigations
+62,"Each Obligor shall immediately advise the Lender in writing of any material actions, suits, litigation or other proceeding against it.",Litigations,"{""clause_type"": ""Litigations""}",Litigations
+63,"Any actual, pending or threatened litigation including but not limited to such matters as set forth on Schedule 5.1.6 .",Litigations,"{""clause_type"": ""Litigations""}",Litigations
+64,"The institution of any litigation, arbitration proceeding or governmental proceeding which may have a Material Adverse Effect on the Servicer.",Litigations,"{""clause_type"": ""Litigations""}",Litigations
+65,"There is no material pending or threatened order, notice, claim, litigation, proceeding or investigation against or affecting Borrower.",Litigations,"{""clause_type"": ""Litigations""}",Litigations
+66,"During the term of this Agreement, the Company and APG shall conduct their respective businesses in substantial compliance with all Applicable Laws.",Compliance With Laws,"{""clause_type"": ""Compliance""}",Compliance
+67,"Each party, in connection with its performance under this Agreement, will comply with all Applicable Laws.",Compliance With Laws,"{""clause_type"": ""Compliance""}",Compliance
+68,"Each party will comply in all material respects with all applicable laws, rules, and regulations in fulfilling its obligations under this Agreement.",Compliance With Laws,"{""clause_type"": ""Compliance""}",Compliance
+69,"The Borrower and the Guarantor are in compliance with all Laws, the failure to comply with which is likely to have a Material Adverse Effect.",Compliance With Laws,"{""clause_type"": ""Compliance With Laws""}",Compliance With Laws
+70,"Except as would not reasonably be expected to have a Material Adverse Effect, APG is in compliance with all Applicable Laws.",Compliance With Laws,"{""clause_type"": ""Compliance With Laws""}",Compliance With Laws
+71,The Executive will be entitled to the number of weeks of vacation each fiscal year equal to that of other executive officers of DeVry Group.,Vacations,"{""clause_type"": ""Vacations""}",Vacations
+72,Executive shall be entitled to five (5) weeks paid vacation each calendar year in accordance with the general policies of QTS or the Company.,Vacations,"{""clause_type"": ""Vacations""}",Vacations
+73,"Employee will be entitled to four weeks of vacation each year, in addition to the 10 paid holidays each year.",Vacations,"{""clause_type"": ""Vacations""}",Vacations
+74,The Executive shall be en titled to four (4) weeks of annual vacation in accordance with the policies periodically established by the Board.,Vacations,"{""clause_type"": ""Vacations""}",Vacations
+75,"During the Term, Executive shall be entitled to vacation in accordance with the Company’s vacation policy as may be in effect from time to time.",Vacations,"{""clause_type"": ""Vacations""}",Vacations
+76,ISA has made no promises to Phillips with respect to the subject matter hereof other than those set forth in this Agreement.,Entire Agreements,"{""clause_type"": ""No Other Representations""}",No Other Representations
+77,This Agreement constitutes the entire agreement between the Parties concerning the Property and supersedes all prior agreements or undertakings.,Entire Agreements,"{""clause_type"": ""Entire Agreements""}",Entire Agreements
+78,This Agreement constitutes the entire agreement of the Parties with respect to the subject matter hereof.,Entire Agreements,"{""clause_type"": ""Entire Agreements""}",Entire Agreements
+79,This Agreement and the MTA constitutes the entire understanding between the Parties with respect to the subject matter hereof.,Entire Agreements,"{""clause_type"": ""Entire Agreements""}",Entire Agreements
+80,This Agreement contains the entire agreement of the parties and supersedes all prior agreements or understandings relating to the subject matter.,Entire Agreements,"{""clause_type"": ""Entire Agreements""}",Entire Agreements
+81,"If any provision hereof is determined to be illegal or unenforceable for any reason, the remaining provisions hereof shall not be affected thereby.",Severability,"{""clause_type"": ""Severability""}",Severability
+82,"If any provision of this Note is invalid or unenforceable, then the other provisions shall remain in full force and effect.",Severability,"{""clause_type"": ""Invalidity""}",Invalidity
+83,The invalidity or unenforceability of any provisions hereof shall in no way affect the validity or enforceability of any other provision.,Severability,"{""clause_type"": ""Invalidity""}",Invalidity
+84,"If one or more of the provisions of this Agreement are deemed void by law, then the remaining provisions will continue in full force and effect.",Severability,"{""clause_type"": ""Severability""}",Severability
+85,The invalidity or unenforceability of any provision of this Agreement will not affect the validity or enforceability of any other provision.,Severability,"{""clause_type"": ""Invalidity""}",Invalidity
+86,The Parties hereby irrevocably waive any and all right to trial by jury in any legal proceeding arising out of or related to this Agreement.,Waiver Of Jury Trials,"{""clause_type"": ""Jury Waivers""}",Jury Waivers
+87,"Borrower and Lender by its acceptance of this Note, hereby waive trial by jury in any action or proceeding brought hereunder or pertaining hereto.",Waiver Of Jury Trials,"{""clause_type"": ""Jury Waivers""}",Jury Waivers
+88,THE PARTIES HERETO HEREBY IRREVOCABLY WAIVE ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AMENDMENT.,Waiver Of Jury Trials,"{""clause_type"": ""Juries""}",Juries
+89,Guarantor hereby waives trial by jury in any action brought on or with respect to this Guaranty or the Lease.,Waiver Of Jury Trials,"{""clause_type"": ""Jury Waivers""}",Jury Waivers
+90,"THE PROVISIONS OF SECTION 12.09(e) OF THE CREDIT AGREEMENT ARE INCORPORATED HEREIN BY REFERENCE, MUTATIS MUTANDIS.",Waiver Of Jury Trials,"{""clause_type"": ""References""}",References
+91,"Sections 5(e) through 28, inclusive, shall survive and continue in full force in accordance with their terms notwithstanding the End Date.",Survival,"{""clause_type"": ""Survival""}",Survival
+92,The termination of Consultant’s engagement hereunder shall not affect the enforceability of Sections 6 or 7.,Survival,"{""clause_type"": ""Severability""}",Severability
+93,"All of Borrower’s obligations under this Section 2.5 shall survive termination of the Agreement, and repayment of the Loans hereunder.",Survival,"{""clause_type"": ""Survival""}",Survival
+94,"If the Closing occurs, the provisions of this Agreement shall survive for the applicable statute of limitations.",Survival,"{""clause_type"": ""Survival""}",Survival
+95,The provisions of this Article 10 shall survive the Closing (and not be merged therein) or earlier termination of this Agreement.,Survival,"{""clause_type"": ""Survival""}",Survival
+96,"The Buyer is duly formed, validly existing and in good standing under the laws of the jurisdiction of its organization.",Organizations,"{""clause_type"": ""Organizations""}",Organizations
+97,"VoteCo is a limited liability company duly formed, validly existing and in good standing under the laws of the State of Delaware.",Organizations,"{""clause_type"": ""Organizations""}",Organizations
+98,The Seller is a limited liability company organized and validly existing under the Laws of State of Tennessee.,Organizations,"{""clause_type"": ""Organizations""}",Organizations
+99,"Crestwood Midstream is a limited liability company duly organized, validly existing and in good standing under the laws of the State of Delaware.",Organizations,"{""clause_type"": ""Organizations""}",Organizations
+100,"It is a limited liability company duly formed or organized, validly existing and in good standing under the laws of the State of Delaware.",Organizations,"{""clause_type"": ""Organization""}",Organization
+101,This Termination Letter shall be binding upon and inure to the benefit of the Parties and their respective successors and assigns.,Binding Effects,"{""clause_type"": ""Successors""}",Successors
+102,This Reinstatement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.,Binding Effects,"{""clause_type"": ""Successors""}",Successors
+103,This Agreement shall be binding upon all successors and assigns of each of the Parties to the Agreement.,Binding Effects,"{""clause_type"": ""Successors""}",Successors
+104,"This Lease shall inure to the benefit of and shall be binding upon the Issuer, the Lessee and their respective successors and assigns.",Binding Effects,"{""clause_type"": ""Successors""}",Successors
+105,"The Plan and this Option Agreement shall be binding upon the heirs, executors, administrators and successors of the parties hereof.",Binding Effects,"{""clause_type"": ""Successors""}",Successors
+106,Use the proceeds of the Term Loan for any purpose other than (a) to finance the Acquisition and (b) to pay the Transaction Expenses.,Use Of Proceeds,"{""clause_type"": ""Use of Proceeds""}",Use of Proceeds
+107,The Company shall use the proceeds of this Note for research and development and other general corporate purposes.,Use Of Proceeds,"{""clause_type"": ""Use of Proceeds""}",Use of Proceeds
+108,"The Company shall use the net proceeds from the sale of the Securities hereunder for working capital purposes, as approved by the Board of Directors.",Use Of Proceeds,"{""clause_type"": ""Use Of Proceeds""}",Use Of Proceeds
+109,Company shall use the net proceeds from the sale of Subordinated Notes for general corporate purposes.,Use Of Proceeds,"{""clause_type"": ""Use Of Proceeds""}",Use Of Proceeds
+110,Use the proceeds of the Revolving Facility Loans and the Swingline Loans and request issuance of Letters of Credit for general corporate purposes.,Use Of Proceeds,"{""clause_type"": ""Uses of Proceeds""}",Uses of Proceeds
+111,"The Commencement Date, Expiration Date and Original Term of this Lease are as specified in Paragraph 1.3.",Terms,"{""clause_type"": ""Dates""}",Dates
+112,"The term of this lease is 24 months commencing on February 1, 2016 (Commencement Date) and ending on February 1, 2018 (Expiration Date).",Terms,"{""clause_type"": ""Terms""}",Terms
+113,"Gatherer’s Operating Terms and Conditions, a copy of which is attached hereto as Exhibit A, are for all purposes incorporated in this Agreement.",Terms,"{""clause_type"": ""Gatherings""}",Gatherings
+114,The term of this Agreement shall commence on the Closing Date and continue for a period of seven (7) years thereafter (the “ Term ”).,Terms,"{""clause_type"": ""Terms""}",Terms
+115,"This Agreement shall commence on the Effective Date and shall be perpetual, unless earlier terminated in accordance with Section 8.2.",Terms,"{""clause_type"": ""Term""}",Term
+116,You agree to hold the facts and circumstances surrounding the execution of this Agreement and the Supplemental Release in strictest confidence.,Confidentiality,"{""clause_type"": ""Confidentiality""}",Confidentiality
+117,Provider shall comply with the confidentiality and enrollee record accuracy requirements set forth in 42 CFR 422.118. (42 CFR 422.504(a)(13)).,Confidentiality,"{""clause_type"": ""Confidentiality""}",Confidentiality
+118,"Nothing in this Agreement shall require the Advisor to disclose the details of its trading system, methods, models, strategies and formulas.",Confidentiality,"{""clause_type"": ""Confidentiality""}",Confidentiality
+119,The New Bank agrees to [continue to] be bound by the provisions of subsection 10.7 of the Credit Agreement.,Confidentiality,"{""clause_type"": ""Further Assurances""}",Further Assurances
+120,This Letter Agreement and the rights and obligations of the parties will be subject to the provisions of Clause 22.10 of the Agreement.,Confidentiality,"{""clause_type"": ""Governing Laws""}",Governing Laws
+121,This Agreement may be modified or amended only by a writing duly executed by or on behalf of the Sellers and the Purchaser.,Amendments,"{""clause_type"": ""Modifications""}",Modifications
+122,Give the Lender prompt written notice of an amendment or modification to any of the Credit Parties’ Organizational Documents.,Amendments,"{""clause_type"": ""Notices""}",Notices
+123,This Agreement may be amended only by a written agreement executed and delivered by Seller and Purchaser.,Amendments,"{""clause_type"": ""Amendments""}",Amendments
+124,No amendment or modification of any provision of this Agreement shall be valid unless in writing and signed by the Company and all Stockholders.,Amendments,"{""clause_type"": ""Amendments""}",Amendments
+125,"This document incorporates into one document all of the provisions of the Plan, as amended and in effect as of August 1, 2016.",Amendments,"{""clause_type"": ""Interpretations""}",Interpretations
+126,Your Option will vest as provided in your Grant Notice. Vesting will cease upon the termination of your Continuous Service.,Vesting,"{""clause_type"": ""Vesting""}",Vesting
+127,The Award shall vest and Restrictions shall lapse in accordance with the vesting schedule set forth in the Grant Notice.,Vesting,"{""clause_type"": ""Vesting""}",Vesting
+128,Each day on which a portion of the Award vests in accordance with this Agreement is referred to as a “ Vesting Date ”.,Vesting,"{""clause_type"": ""Vesting""}",Vesting
+129,The Restricted Stock Units are eligible to vest [*] as set forth Section 2 of the Restricted Stock Unit Award Agreement.,Vesting,"{""clause_type"": ""Vesting""}",Vesting
+130,The Issued Restricted Stock Units shall vest on each Vesting Date in accordance with the vesting conditions set forth in each Award Supplement.,Vesting,"{""clause_type"": ""Vesting""}",Vesting
+131,Neither party may issue any press release or make any public statement regarding this Agreement without the other’s written approval [***] .,Publicity,"{""clause_type"": ""Public Statements""}",Public Statements
+132,The following rules apply to the vesting of your Deferred Units in the event of your termination of service as a Director of the Company.,General,"{""clause_type"": ""Vesting""}",Vesting
+133,"Awards may be granted only to individuals who are employees, officers or directors of the Company or employees or officers of a Parent or Subsidiary.",General,"{""clause_type"": ""Eligibility""}",Eligibility
+134,Contractor may employ Subcontractors to perform any of the operations or services to be provided or performed by it without the approval of Company.,General,"{""clause_type"": ""Subcontractors""}",Subcontractors
+135,"If a Participant has divorced his or her Spouse, all or a portion of his or her Account may be allocated to his or her former Spouse.",General,"{""clause_type"": ""Divorce""}",Divorce
+136,Genocea shall have sole and exclusive control over all matters relating to the Commercialization of the Licensed Products.,General,"{""clause_type"": ""Control""}",Control
+137,The representations and warranties set forth in Section 4 hereof shall be true and correct on such date in all respects.,Representations,"{""clause_type"": ""Representations""}",Representations
+138,Each Facility Lessee is making the representations and warranties set forth in Exhibit C attached hereto.,Representations,"{""clause_type"": ""Representations""}",Representations
+139,The representations and warranties set forth in Section 3 hereof shall be true and correct on such date in all respects.,Representations,"{""clause_type"": ""Representations""}",Representations
+140,All representations and warranties made by TPHX in this Agreement shall be true and correct in all material respects on and as of the Closing Date.,Representations,"{""clause_type"": ""Representations""}",Representations
+141,All representations and warranties made by NBPC in this Agreement shall be true and correct on and as of the Closing Date.,Representations,"{""clause_type"": ""Representations""}",Representations
+142,"All amounts under this Agreement shall be paid net of any applicable withholding required under federal, state or local law.",Withholdings,"{""clause_type"": ""Withholdings""}",Withholdings
+143,All payments to the Executive under this Agreement will be subject to all applicable withholding of applicable taxes.,Withholdings,"{""clause_type"": ""Taxes""}",Taxes
+144,"The Severance Benefit hereunder shall be reduced by all applicable income, employment or other taxes withheld by the Company from such payment.",Withholdings,"{""clause_type"": ""Taxes""}",Taxes
+145,All compensation payments and severance payments to the Executive shall be made subject to required governmental withholdings.,Withholdings,"{""clause_type"": ""Withholdings""}",Withholdings
+146,"All payments to Employee under this Agreement will be reduced by all applicable withholding required by federal, state or local law.",Withholdings,"{""clause_type"": ""Withholdings""}",Withholdings
+147,"No Event of Default or event that, with the giving of notice, the passage of time, or both, would be an Event of Default, has occurred.",No Defaults,"{""clause_type"": ""No Defaults""}",No Defaults
+148,"As of the effective date of this Amendment, no Default or Event of Default shall have occurred and be continuing.",No Defaults,"{""clause_type"": ""No Defaults""}",No Defaults
+149,No Default or Event of Default shall have occurred and be continuing as of the First Amendment Effective Date after giving effect to this Amendment.,No Defaults,"{""clause_type"": ""No Defaults""}",No Defaults
+150,WPPI shall not have materially defaulted in the performance of its covenants or obligations hereunder.,No Defaults,"{""clause_type"": ""Defaults""}",Defaults
+151,The Borrower represents and warrants to the Lender that no default or Event of Default exists under any of the Loan Documents.,No Defaults,"{""clause_type"": ""Representations""}",Representations
+152,The LTIP shall be binding upon and inure to the benefit of the Company and its successors and assigns.,Successors,"{""clause_type"": ""Successors""}",Successors
+153,This Agreement shall be binding on the successors of each party and the transferee allowed by each Party.,Successors,"{""clause_type"": ""Successors""}",Successors
+154,This Agreement shall be binding upon and inure to the benefit of any successor or successors of you or the Company.,Successors,"{""clause_type"": ""Successors""}",Successors
+155,"This Award Agreement shall be binding upon any successor of the Company, in accordance with the terms of this Award Agreement and the Plan.",Successors,"{""clause_type"": ""Successors""}",Successors
+156,"This Agreement shall be binding upon any successor of the Company or the Partnership, in accordance with the terms of this Agreement and the Plan.",Successors,"{""clause_type"": ""Successors""}",Successors
+157,This Fourth Amendment shall constitute a Loan Document for all purposes of the Credit Agreement and the other Loan Documents.,Remedies,"{""clause_type"": ""Further Assurances""}",Further Assurances
+158,The rights and remedies provided in this Agreement are cumulative and are not exclusive of other rights or remedies provided by law.,Remedies,"{""clause_type"": ""Cumulative Remedies""}",Cumulative Remedies
+159,This Third Amendment shall constitute a Loan Document for all purposes of the Credit Agreement and the other Loan Documents.,Remedies,"{""clause_type"": ""Interpretations""}",Interpretations
+160,The rights and remedies provided herein shall be cumulative and not exclusive of any rights or remedies provided by law.,Remedies,"{""clause_type"": ""Cumulative Remedies""}",Cumulative Remedies
+161,All remedies hereunder are cumulative and are not exclusive of any other remedies provided by law or equity .,Remedies,"{""clause_type"": ""Cumulative Remedies""}",Cumulative Remedies
+162,The Company shall deduct from all payments made hereunder all applicable federal or state taxes required by law to be withheld from such payments.,Taxes,"{""clause_type"": ""Withholding Taxes""}",Withholding Taxes
+163,Buyer is hereby directed to withhold from the proceeds allocable to the sale and delivery of crude oil hereunder the amount of severance taxes.,Taxes,"{""clause_type"": ""Withholdings""}",Withholdings
+164,Borrower shall pay any and all taxes including documentary stamp taxes due on the obligation evidenced by this Note.,Taxes,"{""clause_type"": ""Taxes""}",Taxes
+165,The Firm will authorize PriceWaterhouseCoopers to prepare your United Kingdom and United States taxes relating to your year of transfer.,Taxes,"{""clause_type"": ""Taxes""}",Taxes
+166,The Recipient shall be responsible for all sales or use Taxes imposed or assessed as a result of the provision of Services by Provider.,Taxes,"{""clause_type"": ""Taxes""}",Taxes
+167,(a) The Loans comprising each ABR Borrowing (including each Swingline Loan) shall bear interest at the Alternate Base Rate.,Interests,"{""clause_type"": ""Interest""}",Interest
+168,(a) The portion of the Term Loan comprising each Prime Rate Borrowing shall bear interest at the Prime Rate plus the Applicable Rate.,Interests,"{""clause_type"": ""Interest""}",Interest
+169,(a) The Loans comprising ABR Borrowings shall bear interest at the Alternate Base Rate plus the Applicable Rate.,Interests,"{""clause_type"": ""Interest""}",Interest
+170,(a) The Revolving Loans comprising each ABR Borrowing shall bear interest at the Alternate Base Rate plus the Applicable Rate.,Interests,"{""clause_type"": ""Interest""}",Interest
+171,"Lender shall have received all accrued, unpaid interest on the Facility B Loan, accrued through October 31, 2016.",Interests,"{""clause_type"": ""Interest""}",Interest
+172,"For purposes of this Section 5.9 , the term “Lender” includes any Issuing Bank and the term “Applicable Law” includes FATCA.",Defined Terms,"{""clause_type"": ""Taxes""}",Taxes
+173,"Unless otherwise defined herein, terms defined in the Agreement and used herein shall have the meanings given to them in the Purchase Agreement.",Defined Terms,"{""clause_type"": ""Defined Terms""}",Defined Terms
+174,All initially capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Agreement.,Defined Terms,"{""clause_type"": ""Defined Terms""}",Defined Terms
+175,The defined terms set forth in this Amendment shall have the same meanings as set forth in the Agreement.,Defined Terms,"{""clause_type"": ""Defined Terms""}",Defined Terms
+176,"For purposes of this Section 3.01 , the term “ Lender ” includes any L/C Issuer and the term “ applicable law ” includes FATCA.",Defined Terms,"{""clause_type"": ""Interpretations""}",Interpretations
+177,Any dispute regarding the interpretation of this Agreement shall be submitted by the Grantee or the Company to the Committee for review.,Interpretations,"{""clause_type"": ""Dispute Resolution""}",Dispute Resolution
+178,The captions and headings of this agreement are not part of the provisions hereof and shall have no force or effect.,Interpretations,"{""clause_type"": ""Headings""}",Headings
+179,The rules of construction set forth in Section 1.02 of the Credit Agreement shall be applicable to this Mortgage mutatis mutandis .,Interpretations,"{""clause_type"": ""Construction""}",Construction
+180,The definitions in this Agreement are applicable to the singular as well as the plural forms of such terms.,Interpretations,"{""clause_type"": ""Definitions""}",Definitions
+181,The rules of interpretation specified in the Credit Agreement (including Section 1.2 thereof) shall be applicable to this Agreement.,Interpretations,"{""clause_type"": ""Interpretations""}",Interpretations
+182,"In the event of a Change in Control, the Options shall vest or continue and shall have such treatment, as set forth in the Plan.",Change In Control,"{""clause_type"": ""Change in Control""}",Change in Control
+183,"Upon a Change in Control, the Participant will have such rights with respect to the RSUs as are provided for in the Plan.",Change In Control,"{""clause_type"": ""Control""}",Control
+184,"If a Change in Control shall occur, the provisions of Sections 6 and 7 shall immediately terminate and be of no further force and effect.",Change In Control,"{""clause_type"": ""Changes""}",Changes
+185,"In the event of a Change in Control of the Company prior to the payout of shares of Stock, all DSUs shall be treated as specified in the Program.",Change In Control,"{""clause_type"": ""Change in Control""}",Change in Control
+186,All RSUs and PSUs shall fully vest in the event of a Change in Control as defined in the Incentive Plan.,Change In Control,"{""clause_type"": ""Vesting""}",Vesting
+187,The Developer shall pay for his own expenses unless otherwise agreed or required by MyDx and pre-approved.,Expenses,"{""clause_type"": ""Expenses""}",Expenses
+188,"The Company is not responsible for any of the Consultant’s travel, entertainment and other out-of-pocket costs.",Expenses,"{""clause_type"": ""Costs""}",Costs
+189,Each of the Company and Investor shall bear its own expenses in connection with the preparation and negotiation of this Agreement.,Expenses,"{""clause_type"": ""Expenses""}",Expenses
+190,The parties shall bear their own legal and other expenses in connection with the matters contemplated herein.,Expenses,"{""clause_type"": ""Expenses""}",Expenses
+191,"Each Party agrees to pay for its own expenses related to the research, preparation and review of the transactions contemplated by this Agreement.",Expenses,"{""clause_type"": ""Expenses""}",Expenses
+192,"Except as set forth in Section 3(b) above, all unvested RSUs shall be immediately forfeited upon the Participant’s Termination for any reason.",Forfeitures,"{""clause_type"": ""Forfeitures""}",Forfeitures
+193,All RSUs and Dividend Equivalents granted under this Agreement shall be forfeited and terminated as set forth in the Grant Notice.,Forfeitures,"{""clause_type"": ""Forfeitures""}",Forfeitures
+194,All RSUs granted under this Agreement shall be forfeited and terminated as set forth in the Grant Notice.,Forfeitures,"{""clause_type"": ""Forfeitures""}",Forfeitures
+195,The PBCA will be cancelled upon the termination of the Participant’s employment with the Company and its Subsidiaries as described below.,Forfeitures,"{""clause_type"": ""Cancellations""}",Cancellations
+196,"Subject to Section 3(c), all unvested RSUs shall be immediately forfeited upon the Participant’s Termination for any reason.",Forfeitures,"{""clause_type"": ""Forfeitures""}",Forfeitures
+197,"Borrower and each Subsidiary has good and indefeasible title to its respective Properties, free and clear of all Liens, except for Permitted Liens.",Titles,"{""clause_type"": ""Titles""}",Titles
+198,Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this RSU Agreement.,Titles,"{""clause_type"": ""Titles""}",Titles
+199,Executive shall be and shall hold the title of Chief Executive Officer of the Company. Executive shall assume such position on the Commencement Date.,Titles,"{""clause_type"": ""Titles""}",Titles
+200,Purchaser shall pay the cost of the premium for the Title Policy and any Survey prepared by Purchaser.,Titles,"{""clause_type"": ""Costs""}",Costs
+201,The titles and section headings used herein are for convenience only and shall not be used in interpreting this Agreement.,Titles,"{""clause_type"": ""Headings""}",Headings
+202,"PharmaZell shall perform Release Testing to ensure conformance to the Specifications, in accordance with the Quality Agreement.",Releases,"{""clause_type"": ""Testing""}",Testing
+203,Nothing except cash payment in full of the Obligations shall release the undersigned from liability under this Guaranty.,Releases,"{""clause_type"": ""Release""}",Release
+204,"Upon payment in full of all Indebtedness as defined herein, the Mortgagee shall execute and deliver a satisfaction of this Mortgage.",Releases,"{""clause_type"": ""Satisfactions""}",Satisfactions
+205,The form of Separation and Release Agreement attached hereto as Exhibit A is incorporated herein by reference.,Releases,"{""clause_type"": ""Further Assurances""}",Further Assurances
+206,"On the Effective Date, Executive shall execute and deliver to Company the form of release attached as Exhibit A hereto.",Releases,"{""clause_type"": ""Releases""}",Releases
+207,"The Company and the Consultant shall have the right to demand specific performance of the terms, and each of them, of this Agreement.",Specific Performance,"{""clause_type"": ""Performance""}",Performance
+208,Mortgagee may institute an action for specific performance of any covenant contained herein or in aid of the execution of any power herein granted.,Specific Performance,"{""clause_type"": ""Actions""}",Actions
+209,"The Borrower maintains, and has caused each Subsidiary to maintain, insurance in compliance with Section 6.6.",Insurances,"{""clause_type"": ""Insurance""}",Insurance
+210,The Company shall maintain insurance in such amounts and covering such risks as is reasonable and customary for the business for which it is engaged.,Insurances,"{""clause_type"": ""Insurance""}",Insurance
+211,"After giving effect to such change in registration, the insurance requirements of Section 10 are satisfied in respect of the applicable Aircraft.",Insurances,"{""clause_type"": ""Insurance""}",Insurance
+212,Borrower shall have delivered evidence satisfactory to the Lender of the existence of insurance required hereby.,Insurances,"{""clause_type"": ""Insurance""}",Insurance
+213,"The Borrower has obtained, and maintained in effect, the insurance coverage required by Section 6.2 of this Agreement.",Insurances,"{""clause_type"": ""Insurance""}",Insurance
+214,Nothing contained in this Agreement shall be construed to limit the Company or any Noteholder from making such disclosures as may be required by law.,Disclosures,"{""clause_type"": ""Disclosures""}",Disclosures
+215,Consultant acknowledges and agrees that Company may publicly disclose that Consultant is a member of Company’s Advisory Board.,Disclosures,"{""clause_type"": ""Publicity""}",Publicity
+216,All of Borrower’s Products are listed on Schedule 8.2(a ) (as updated from time to time pursuant to Section 4.15).,Disclosures,"{""clause_type"": ""Schedules""}",Schedules
+217,The Company will consult with the Executive on any press release or other public disclosure regarding his separation from the Company.,Disclosures,"{""clause_type"": ""Disclosures""}",Disclosures
+218,The headings of the sections of this Agreement are for convenience only and are not binding on any interpretation of this Agreement.,Construction,"{""clause_type"": ""Headings""}",Headings
+219,The headings of this Agreement are for the purposes of reference only and shall not affect the construction of this Agreement.,Construction,"{""clause_type"": ""Headings""}",Headings
+220,The rules of construction specified in Section 1.02 of the Credit Agreement also apply to this Amendment.,Construction,"{""clause_type"": ""Construction""}",Construction
+221,Capitalized terms used but not defined herein shall have the meaning set forth in the Original Agreement.,Construction,"{""clause_type"": ""Defined Terms""}",Defined Terms
+222,The masculine pronoun shall be construed to include the feminine pronoun and singular shall include the plural where the context so requires.,Construction,"{""clause_type"": ""Gender""}",Gender
+223,"Company hereby agrees to employ Executive and Executive hereby accepts such employment, upon the terms and conditions set forth herein.",Employment,"{""clause_type"": ""Employment""}",Employment
+224,The following terms and conditions will govern the Executive’s employment with the Company throughout the Term.,Employment,"{""clause_type"": ""Governance""}",Governance
+225,"By this Agreement, Employer and Employee set forth the terms of Employer’s employment of Employee on and after the Effective Date.",Employment,"{""clause_type"": ""Agreements""}",Agreements
+226,"An Employee's employment with the Company or an Affiliate or, to the extent determined by the Administrator, any predecessor of any of them.",Employment,"{""clause_type"": ""Affiliates""}",Affiliates
+227,"Employer (as defined below) hereby employs Executive, and Executive hereby accepts such employment, upon the terms and conditions set forth herein.",Employment,"{""clause_type"": ""Employment""}",Employment
+228,"The Agreement shall be effective as of the first day of My employment by the Company, as affirmed or reaffirmed by my signature below.",Effective Dates,"{""clause_type"": ""Effectiveness""}",Effectiveness
+229,"This Amendment shall be effective December 8, 2015. Except as hereby amended, the Plan shall remain in full force and effect.",Effective Dates,"{""clause_type"": ""Effectiveness""}",Effectiveness
+230,"This Amendment shall be effective December 15, 2015. Except as hereby amended, the Plan shall remain in full force and effect.",Effective Dates,"{""clause_type"": ""Effectiveness""}",Effectiveness
+231,This Agreement is effective on the eighth (8th) day after you sign it and without revocation by you (the “Effective Date”).,Effective Dates,"{""clause_type"": ""Effectiveness""}",Effectiveness
+232,The Plan shall become effective on the date shareholder approval is obtained as provided in Section 6.1 (the “ Effective Date ”).,Effective Dates,"{""clause_type"": ""Effectiveness""}",Effectiveness
+233,Each Party irrevocably and unconditionally attorns to the jurisdiction of the courts of the province of Ontario.,Jurisdictions,"{""clause_type"": ""Jurisdiction""}",Jurisdiction
+234,(a) This Agreement shall be construed in accordance with and governed by the law of the State of Michigan.,Jurisdictions,"{""clause_type"": ""Governing Laws""}",Governing Laws
+235,"Lender shall have received, in immediately available funds, the Closing Fee and the Collateral Management Fee.",Fees,"{""clause_type"": ""Fees""}",Fees
+236,"All fees and expenses due and payable to the Administrative Agent, the Joint Lead Arrangers and any other Credit Party shall have been paid.",Fees,"{""clause_type"": ""Expenses""}",Expenses
+237,Buyer shall have received payment in full of all fees and Expenses which are payable hereunder to Buyer on or before such date.,Fees,"{""clause_type"": ""Payments""}",Payments
+238,"MyoKardia will pay Consultant $450.00 per hour not to exceed $200,000 during the Consulting Period, without MyoKardia’s express written consent.",Fees,"{""clause_type"": ""Fees""}",Fees
+239,A Lender shall not be entitled to receive any fees accruing hereunder while it is a Defaulting Lender.,Fees,"{""clause_type"": ""Fees""}",Fees
+240,This Agreement shall be governed by and construed in accordance with the laws of the State of Wisconsin.,Applicable Laws,"{""clause_type"": ""Governing Laws""}",Governing Laws
+241,"The law applicable to the arbitration of any dispute shall be the laws of the State of California, excluding its conflicts of law rules.",Applicable Laws,"{""clause_type"": ""Governing Laws""}",Governing Laws
+242,This Agreement and this SAR shall be governed by and construed in accordance with the laws of the State of Delaware.,Applicable Laws,"{""clause_type"": ""Governing Laws""}",Governing Laws
+243,"This Agreement shall be construed under, and governed in accordance with, the laws of the State of New York.",Applicable Laws,"{""clause_type"": ""Governing Laws""}",Governing Laws
+244,The provisions of this Mortgage shall be governed by and construed under the laws of the state in which the Mortgaged Property is located.,Applicable Laws,"{""clause_type"": ""Governing Law""}",Governing Law
+245,All amounts due under this Section shall be payable not later than thirty (30) days after receipt of a reasonably detailed invoice therefor.,Payments,"{""clause_type"": ""Payments""}",Payments
+246,All amounts due under this Section shall be payable promptly (and in any event within ten (10) days) after demand therefor.,Payments,"{""clause_type"": ""Payments""}",Payments
+247,Payment due the 20th of the month following delivery month. Payment shall be made by electronic funds transfer in United States dollars.,Payments,"{""clause_type"": ""Payments""}",Payments
+248,ALL AMOUNTS DUE UNDER THIS SECTION 10.04 SHALL BE PAYABLE NOT LATER THAN TEN BUSINESS DAYS AFTER DEMAND THEREFOR.,Payments,"{""clause_type"": ""Payments""}",Payments
+249,"Unless otherwise specified, all amounts due under this Section  10.03 shall be payable not later than 30 days after written demand therefor.",Payments,"{""clause_type"": ""Payments""}",Payments
+250,The Junior Participant and the Senior Participant represent to each other that no broker was responsible for bringing about this transaction.,Brokers,"{""clause_type"": ""Brokers""}",Brokers
+251,Participation in this Plan shall be limited to those Participants selected by the Company from time to time and who enter into an Award Agreement.,Participations,"{""clause_type"": ""Selections""}",Selections
+252,"No Employee shall have the right to be selected to receive an Award or, having been so selected, to be selected to receive a future Award.",Participations,"{""clause_type"": ""Selection Rights""}",Selection Rights
+253,"No Service Provider will have the right to be selected to receive an Award or, having been so selected, to be selected to receive any future Award.",Participations,"{""clause_type"": ""No Provider Representations""}",No Provider Representations
+254,"No employee shall have a right to be selected as a Participant, or, having been so selected, to be selected again as a Participant.",Participations,"{""clause_type"": ""Selections""}",Selections
+255,"No Employee shall have the right to receive an Award under the Plan, or, having received any Award, to receive a future Award.",Participations,"{""clause_type"": ""No Rights""}",No Rights
+256,The Loan Parties shall have delivered all material consents required to effectuate the transactions contemplated by this Amendment.,Consents,"{""clause_type"": ""Consents""}",Consents
+257,Guarantor hereby acknowledges receiving copies of each Credit Document and consents to the terms and provisions thereof.,Consents,"{""clause_type"": ""Consents""}",Consents
+258,"The Required Consent(s), if any, and Required Estoppel shall have been obtained and delivered to Buyer.",Consents,"{""clause_type"": ""Consents""}",Consents
+259,"Each Member, in his capacity as a member of Veneto, hereby consents to the transactions set forth in this Agreement.",Consents,"{""clause_type"": ""Consents""}",Consents
+260,"FIS has all governmental approvals, permits and licenses necessary for the performance of its obligations hereunder.",Consents,"{""clause_type"": ""Approvals""}",Approvals
+261,"Schedule 3.12 sets forth the name of, and the ownership interest of the Borrower and each Subsidiary in, each Subsidiary as of the Effective Date.",Subsidiaries,"{""clause_type"": ""Subsidiaries""}",Subsidiaries
+262,"As of the Closing Date, the Company has two Subsidiaries: (i) Blue Capital Re Ltd. and (ii) Blue Capital Re ILS Ltd.",Subsidiaries,"{""clause_type"": ""Subsidiaries""}",Subsidiaries
+263,"Ontario does not have any subsidiaries, and Ontario does not own, beneficially or of record, any shares of or control any other corporation.",Subsidiaries,"{""clause_type"": ""Subsidiaries""}",Subsidiaries
+264,"The Company does not own directly or indirectly, any equity or other shares in any company, corporation, partnership, joint venture or otherwise.",Subsidiaries,"{""clause_type"": ""Equity Interests""}",Equity Interests
+265,"The Company does not own any equity interests in any other corporation, partnership, limited liability company, joint venture or other entity.",Subsidiaries,"{""clause_type"": ""Equity Interests""}",Equity Interests
+266,"The Company does not own, license or otherwise have any right, title or interest in any intellectual property.",Intellectual Property,"{""clause_type"": ""Intellectual Property""}",Intellectual Property
+267,"Except as set forth on Schedule 2.09 , Seller has not encumbered any registered patents or copyrights of the Companies, or applications therefor.",Intellectual Property,"{""clause_type"": ""Encumbrances""}",Encumbrances
+268,(a) Schedule 6 lists all Intellectual Property owned by such Borrower in its own name on the date hereof.,Intellectual Property,"{""clause_type"": ""Intellectual Property""}",Intellectual Property
+269,"On the Effective Date MMT will not own, license or otherwise have any rights in or to any Intellectual Property.",Intellectual Property,"{""clause_type"": ""Intellectual Property""}",Intellectual Property
+270,"All IP filed, pending or in the process of being developed shall be fully disclosed to Purchaser and Parent Company in Schedule 7.2(j).",Intellectual Property,"{""clause_type"": ""IP Representations""}",IP Representations
+271,"As of the end of any fiscal quarter of Boise Cascade, permit the Capitalization Ratio to be greater than 60%.",Capitalization,"{""clause_type"": ""Capitalization""}",Capitalization
+272,The capitalization of the Company is as set forth in its public filings with the U.S. Securities and Exchange Commission from time to time.,Capitalization,"{""clause_type"": ""Capitalization""}",Capitalization
+273,The only equity owners of the Seller are the Seller Parties and no person has any existing right to purchase any equity of the Seller.,Capitalization,"{""clause_type"": ""Equity Holders""}",Equity Holders
+274,"This Agreement may be terminated by Ashland Global at any time, in its sole discretion, prior to the Separation.",Terminations,"{""clause_type"": ""Terminations""}",Terminations
+275,This Escrow Agreement will terminate when Escrow Agent has released all the escrowed funds pursuant to section 2 hereof.,Terminations,"{""clause_type"": ""Terminations""}",Terminations
+276,Either party may terminate this Agreement for any reason by giving not less than ninety (90) days prior written notice.,Terminations,"{""clause_type"": ""Termination""}",Termination
+277,This Exhibit shall automatically terminate in the event that the License Agreement is terminated in accordance with its terms.,Terminations,"{""clause_type"": ""Terminations""}",Terminations
+278,The Agreement may be terminated at any time by the Company or the Consultant upon 30 days’ written notice to the other party.,Terminations,"{""clause_type"": ""Terminations""}",Terminations
+279,Each Party shall each bear their own costs and legal fees associated with the negotiation and preparation of this Agreement.,Costs,"{""clause_type"": ""Costs""}",Costs
+280,Each Party hereto shall be responsible for and shall bear all of its own costs and expenses incurred in connection with the proposed Transaction.,Costs,"{""clause_type"": ""Costs""}",Costs
+281,"In any litigation arising out of this Lease, the prevailing party shall be entitled to recover reasonable attorney's fees and costs from the other.",Costs,"{""clause_type"": ""Attorneys""}",Attorneys
+282,The Parties each agree to pay their own costs and attorneys’ fees which may be incurred in connection with any dispute arising under this Agreement.,Costs,"{""clause_type"": ""Costs""}",Costs
+283,"If Tenant fails to make any payment when due under this Exhibit, such failure shall be deemed a failure to make a Rent payment under the Lease.",Costs,"{""clause_type"": ""Late Payments""}",Late Payments
+284,"Your assignment will be as TITLE reporting to MANAGER. This offer is for a full time position, located at the Company’s offices in Wallingford, CT.",Duties,"{""clause_type"": ""Titles""}",Titles
+285,The Grantee will not have any rights of a shareholder of the Company with respect to Earned RSUs until delivery of the underlying Shares.,Duties,"{""clause_type"": ""Shareholders""}",Shareholders
+286,"Sections 6.02, 6.03, 6.07, 6.08, 6.09, 6.10 and 6.12 of the Investment Agreement are incorporated herein by reference, mutatis mutandis .",Miscellaneous,"{""clause_type"": ""Incorporation""}",Incorporation
+287,"This Amendment is subject to the general provisions set forth in the Loan Agreement, including but not limited to Sections 15.14, 15.15, and 15.16.",Miscellaneous,"{""clause_type"": ""General""}",General
+288,"Section 10.14(b) , ( c ) and ( d ) and Section 10.15 of the Credit Agreement shall apply to this Amendment, mutatis mutandis .",Miscellaneous,"{""clause_type"": ""Costs""}",Costs
+289,The provisions of Article 8 of the ABL Intercreditor Agreement will apply with like effect to this Grantor Joinder Agreement.,Miscellaneous,"{""clause_type"": ""Intercreditor Agreements""}",Intercreditor Agreements
+290,Tenant shall have the right to use the freight elevator and loading dock on a twenty-four-(24)-hour basis at no additional charge.,Miscellaneous,"{""clause_type"": ""Use Of Common Areas""}",Use Of Common Areas
+291,"NCAP is a Nevada Corporation, duly formed, validly existing and in good standing under the laws of the state of Nevada.",Existence,"{""clause_type"": ""Organizations""}",Organizations
+292,"The Borrower is organized, validly existing and in good standing under the laws of the jurisdiction of its organization.",Existence,"{""clause_type"": ""Organizational Status""}",Organizational Status
+293,"The Seller is a Delaware Corporation, duly formed, validly existing and in good standing under the laws of the state of Delaware.",Existence,"{""clause_type"": ""Organizations""}",Organizations
+294,"Borrower is a corporation duly incorporated, validly existing and in good standing under the laws of the State of Florida.",Existence,"{""clause_type"": ""Organizations""}",Organizations
+295,"Seller is a limited liability company duly formed, validly existing and in good standing under the laws of the State of Delaware.",Existence,"{""clause_type"": ""Organizations""}",Organizations
+296,"Whenever such Loan Party engages in transactions with any of its Affiliates, conduct such transactions on an arms-length basis.",Transactions With Affiliates,"{""clause_type"": ""Affiliates""}",Affiliates
+297,The Company shall provide to the Executive all indemnification-related protections and benefits provided to senior executives of the Company.,Indemnifications,"{""clause_type"": ""Indemnification""}",Indemnification
+298,"On or before the Effective Date, the Company and Executive shall enter into an Indemnification Agreement in the form attached as Exhibit A.",Indemnifications,"{""clause_type"": ""Indemnifications""}",Indemnifications
+299,In the event any Registrable Securities are included in a registration statement under this Article VII.,Indemnifications,"{""clause_type"": ""Registrations""}",Registrations
+300,The Company agrees to indemnify each of the Agent and its affiliates as set forth in Exhibit I attached hereto.,Indemnifications,"{""clause_type"": ""Indemnifications""}",Indemnifications
+301,The Company shall indemnify the Executive in accordance with the Indemnification Agreement between the parties of even date herewith.,Indemnifications,"{""clause_type"": ""Indemnification""}",Indemnification
+302,The closing (the “ Closing ”) of the transactions contemplated by this Agreement shall take place simultaneously with the signing of this Agreement.,Closings,"{""clause_type"": ""Closings""}",Closings
+303,"The Closing of the transactions provided for in Section 1.04 and 1.05 is taking place at the office of George Mattia in San Diego, California.",Closings,"{""clause_type"": ""Closings""}",Closings
+304,The Senior Notes shall have been issued or shall be issued substantially concurrently with the initial funding on the Closing Date.,Closings,"{""clause_type"": ""Conditions""}",Conditions
+305,The consummation of the transactions contemplated hereby (“ Closing ”) shall occur on the Closing Date in escrow through Title Company.,Closings,"{""clause_type"": ""Escrows""}",Escrows
+306,The Closing of the Share Exchange and the other transactions contemplated by this Agreement will occur as soon as possible (the “Closing Date”).,Closings,"{""clause_type"": ""Closings""}",Closings
+307,Employee and spouse will be enrolled on the corporate health insurance plan once the Salary described in Section 5.2 is implemented.,Benefits,"{""clause_type"": ""Insurance""}",Insurance
+308,Employee shall receive Full Benefits (as defined above) for one (1) year following termination due to Disability.,Benefits,"{""clause_type"": ""Benefits""}",Benefits
+309,"All full-time employees of Exelixis, Inc. enjoy a generous benefits package, which is outlined on the attached Summary of Benefits.",Benefits,"{""clause_type"": ""Benefits""}",Benefits
+310,"You will be eligible to participate in all benefit programs, if any, that the Company may decide to establish in the future.",Benefits,"{""clause_type"": ""Benefits""}",Benefits
+311,PROS offers a competitive benefits package in which you can elect to enroll immediately following your hire date.,Benefits,"{""clause_type"": ""Benefits""}",Benefits
+312,"To reasonably cooperate with the Purchaser, at no out-of-pocket cost or expense to the Seller, with respect to all matters related to this Agreement.",Cooperation,"{""clause_type"": ""Cooperation""}",Cooperation
+313,The Grantee agrees to sign such additional documentation as the Company may reasonably require from time to time.,Cooperation,"{""clause_type"": ""Additional Documents""}",Additional Documents
+314,Each Party will cause its Affiliates and Sublicensees to comply with the obligations in this Section 12.3 ( Effects of Termination ).,Cooperation,"{""clause_type"": ""Compliance With Laws""}",Compliance With Laws
+315,The Participant agrees to execute such additional agreements as the Company may reasonably require to effectuate the terms of this Agreement.,Cooperation,"{""clause_type"": ""Additional Agreements""}",Additional Agreements
+316,Borrower and Guarantor shall take any action reasonably requested by Administrative Agent to carry out the intent of this Agreement.,Cooperation,"{""clause_type"": ""Further Assurances""}",Further Assurances
+317,The Executive’s employment shall terminate automatically if the Executive dies during the Employment Period.,Death,"{""clause_type"": ""Death""}",Death
+318,The death of a Participant or an Inactive Participant prior to complete distribution of the Account shall be a distribution event.,Death,"{""clause_type"": ""Deaths""}",Deaths
+319,The Executive’s employment pursuant to this Agreement will be automatically terminated upon the death of the Executive.,Death,"{""clause_type"": ""Terminations""}",Terminations
+320,"If Participant dies before Participant’s Service terminates, any unvested portion of this RSU will become vested.",Death,"{""clause_type"": ""Death""}",Death
+321,This Agreement and the Executive's employment under this Agreement shall terminate immediately and automatically upon the Executive's death .,Death,"{""clause_type"": ""Terminations""}",Terminations
+322,Executive shall serve as the Company’s Chief Commercial Officer and shall report directly to the Company’s Chief Executive Officer.,Positions,"{""clause_type"": ""Reports""}",Reports
+323,"You will become a .  Your new position with the Company will be effective (your ""Promotion Start Date'').",Positions,"{""clause_type"": ""Promotions""}",Promotions
+324,"The Company hereby employs Executive, and Executive hereby accepts employment with the Company, as Chief Financial Officer of the Company.",Positions,"{""clause_type"": ""Employment""}",Employment
+325,"Effective December 6, 2016, your new title is President and CEO, reporting directly to the Executive Chairman of the Board.",Positions,"{""clause_type"": ""Titles""}",Titles
+326,"Advance agrees Employee is employed as its Senior Vice President, Human Resources (“Employee’s Position”).",Positions,"{""clause_type"": ""Positions""}",Positions
+327,The individuals signing below represent and warrant that they have the requisite authority to bind the entities on whose behalf they are signing.,Authority,"{""clause_type"": ""Authority""}",Authority
+328,"No consents, documents, or approvals that have not been obtained are necessary to the effectiveness of the grant of the Option by Owner.",Authority,"{""clause_type"": ""Consents""}",Consents
+329,Each of the Parties hereto hereby represents that each has taken all actions necessary in order to execute and deliver this Agreement.,Authority,"{""clause_type"": ""Representations""}",Representations
+330,Each party represents that it has the authority to enter into this Agreement and that it constitutes a binding commitment of the party.,Authority,"{""clause_type"": ""Authority""}",Authority
+331,Fantex possesses all requisite corporate power and authority necessary to enter into and carry out the transactions contemplated by this Agreement.,Authority,"{""clause_type"": ""Powers""}",Powers
+332,The Recipient has the necessary authority and capacity to enter into and perform his obligations under this Agreement.,Authorizations,"{""clause_type"": ""Authority""}",Authority
+333,"This Agreement has been duly and validly authorized, executed and delivered by ADGE and constitutes a binding obligation of ADGE.",Authorizations,"{""clause_type"": ""Authorizations""}",Authorizations
+334,"This Agreement has been duly authorized, executed and delivered by each of the Issuers and Guarantors.",Authorizations,"{""clause_type"": ""Authorizations""}",Authorizations
+335,"No Credit Party will create, incur, assume or suffer to exist any Lien on any of its assets, except for Permitted Liens.",Liens,"{""clause_type"": ""Liens""}",Liens
+336,"Borrower shall pay, bond or otherwise discharge all Liens with respect to the Property as required by and in accordance with the Loan Agreement.",Liens,"{""clause_type"": ""Liens""}",Liens
+337,"Create, incur, assume or suffer to exist, any Lien upon the Collateral except, to the extent constituting Liens, rights of the Agencies.",Liens,"{""clause_type"": ""Liens""}",Liens
+338,"Other than Permitted Liens, neither the Company nor any Subsidiary and/or any of their respective assets are subject to any Liens.",Liens,"{""clause_type"": ""Liens""}",Liens
+339,"Except for Permitted Indebtedness and Permitted Liens, the Company has no Indebtedness nor any Liens other than as disclosed on Schedule 3.1(v) .",Liens,"{""clause_type"": ""Indebtedness""}",Indebtedness
+340,The Administrative Agent shall have received executed counterparts of this Agreement by each party hereto.,Agreements,"{""clause_type"": ""Counterparts""}",Counterparts
+341,"Except as modified by this Amendment, the Agreement is in all other respects hereby ratified and confirmed.",Agreements,"{""clause_type"": ""Ratifications""}",Ratifications
+342,"All of Borrower's covenants and agreements hereunder shall run with the land, until such time as the Obligations have been repaid in full.",Agreements,"{""clause_type"": ""Covenants""}",Covenants
+343,"This Term Loan Agreement, including the schedules and exhibits hereto, as the same may be from time to time amended and in effect.",Agreements,"{""clause_type"": ""Agreements""}",Agreements
+344,"Except as set forth on Schedule 3.14(n) , entered into any agreement, or otherwise obligated themselves, to do any of the foregoing.",Agreements,"{""clause_type"": ""No Further Obligations""}",No Further Obligations
+345,"Unless specifically provided in this Agreement, all approvals or consents which are required hereunder shall not be unreasonably withheld or delayed.",Approvals,"{""clause_type"": ""Approvals""}",Approvals
+346,"In all respects, the Lease, as hereby amended and modified, is hereby ratified, approved and confirmed.",Approvals,"{""clause_type"": ""Ratification""}",Ratification
+347,"RMS has all requisite Approvals and RMS shall have provided evidence, satisfactory to Purchaser and Agent, that RMS’s Approvals are in good standing.",Approvals,"{""clause_type"": ""Approvals""}",Approvals
+348,"Except as set forth below and in the Loan Agreement, no Lease (including any Lease amendments) will be effective unless approved by Agent.",Approvals,"{""clause_type"": ""Approvals""}",Approvals
+349,Borrower have received any governmental and material third party consents and approvals required in connection with the Transactions.,Approvals,"{""clause_type"": ""Consents""}",Consents
+350,Termination Event . The occurrence of a Purchase and Sale Termination Event or an Unmatured Purchase and Sale Termination Event.,Sales,"{""clause_type"": ""Terminations""}",Terminations
+351,"Seller agrees to sell the Assets to Buyer and Buyer agrees to purchase the Assets from Seller, under the terms of this Agreement.",Sales,"{""clause_type"": ""Agreements""}",Agreements
+352,"Subject to the terms and conditions hereof, the Company has authorized the issuance and sale of the Preferred Shares.",Sales,"{""clause_type"": ""Authorizations""}",Authorizations
+353,"Seller agrees to sell the Property to Purchaser, and Purchaser agrees to purchase the Property as provided herein.",Sales,"{""clause_type"": ""Agreements""}",Agreements
+354,"The Borrower will not, and will not permit any of its Subsidiaries to, enter into any Sale and Leaseback Transactions.",Sales,"{""clause_type"": ""Sale of Leasebacks""}",Sale of Leasebacks
+355,"As used herein, capitalized terms shall have the meanings set forth in the body of this Agreement or in Appendix I .",Definitions,"{""clause_type"": ""Definitions""}",Definitions
+356,Capitalized terms not otherwise defined in this Amendment have the same meanings as set forth in the Credit Agreement.,Definitions,"{""clause_type"": ""Defined Terms""}",Defined Terms
+357,All capitalized terms used in this First Amendment and not otherwise defined shall have the same meanings herein as in the Agreement.,Definitions,"{""clause_type"": ""Defined Terms""}",Defined Terms
+358,"As used throughout this Agreement, “term” shall include the Initial Term and all Renewal Terms, if any.",Definitions,"{""clause_type"": ""Terms""}",Terms
+359,Capitalized terms used herein and not otherwise defined herein shall have their respective defined meanings given them in the Pledge Agreement.,Definitions,"{""clause_type"": ""Defined Terms""}",Defined Terms
+360,The covenants set forth in the foregoing provisions of this Section 5 may be enforced pursuant to the provisions of Section 6(f) hereof.,Enforcements,"{""clause_type"": ""Enforcement""}",Enforcement
+361,A Final Arbitration Award may be enforced in any state or federal court having jurisdiction over the subject matter of the related Dispute.,Enforcements,"{""clause_type"": ""Enforcement""}",Enforcement
+362,The headings in the Paragraphs of this Amendment ar e inserted for convenience only and will not constitute a part of this Agreement.,Headings,"{""clause_type"": ""Headings""}",Headings
+363,The headings of the sections of this Policy are inserted for convenience only and shall not be deemed to constitute a part of this Policy.,Headings,"{""clause_type"": ""Headings""}",Headings
+364,The descriptive headings in this Agreement are inserted for convenience of reference only and do not constitute a part of this Agreement.,Headings,"{""clause_type"": ""Headings""}",Headings
+365,Headings contained in this First Amendment are for convenience only and are not substantive to the provisions of this First Amendment.,Headings,"{""clause_type"": ""Headings""}",Headings
+366,The headings used in this Agreement are included for convenience only and are not to be used in construing or interpreting this Agreement.,Headings,"{""clause_type"": ""Headings""}",Headings
+367,"This Agreement does not conflict with any law, agreement, or obligation by which the Borrower or any other Obligor is bound.",No Conflicts,"{""clause_type"": ""No Conflicts""}",No Conflicts
+368,EACH PARTY HERETO AGREES THAT SECTION 13.09(b) OF THE CREDIT AGREEMENT SHALL APPLY TO THIS THIRD AMENDMENT MUTATIS MUTANDIS.,Submission To Jurisdiction,"{""clause_type"": ""Waivers""}",Waivers
+369,EACH PARTY HERETO AGREES THAT SECTION 13.09(b) OF THE CREDIT AGREEMENT SHALL APPLY TO THIS AGREEMENT MUTATIS MUTANDIS.,Submission To Jurisdiction,"{""clause_type"": ""Waivers""}",Waivers
+370,EACH PARTY HERETO AGREES THAT SECTION 13.09(b) OF THE EXISTING CREDIT AGREEMENT SHALL APPLY TO THIS FOURTH AMENDMENT MUTATIS MUTANDIS.,Submission To Jurisdiction,"{""clause_type"": ""Mutual Understandings""}",Mutual Understandings
+371,"The Parent Borrower and its Subsidiaries (taken as a whole), both before and after giving effect to any Credit Extensions, are Solvent.",Solvency,"{""clause_type"": ""Solvency""}",Solvency
+372,"The Borrower and its Subsidiaries are as of the Closing Date, and after giving effect to the Contribution will be, on a consolidated basis, Solvent.",Solvency,"{""clause_type"": ""Solvency""}",Solvency
+373,"The Borrower, on a consolidated basis together with its Subsidiaries, giving effect to the Transactions, is Solvent as of the Closing Date.",Solvency,"{""clause_type"": ""Solvency""}",Solvency
+374,"Each of the Parent and its Subsidiaries on a consolidated basis, and the Borrower and its Subsidiaries, on a consolidated basis, is Solvent.",Solvency,"{""clause_type"": ""Solvency""}",Solvency
+375,"Guarantor is and will be, after giving effect to the obligations contemplated under this Seventh Amendment, Solvent.",Solvency,"{""clause_type"": ""Solvency""}",Solvency
+376,"Any claim or action brought with respect to this Award shall be brought in a federal or state court located in Minneapolis, Minnesota.",Venues,"{""clause_type"": ""Jurisdictions""}",Jurisdictions
+377,"The venue of any action brought arising out of or related to this Agreement shall be exclusively in Orange County, California.",Venues,"{""clause_type"": ""Venues""}",Venues
+378,THE PROVISIONS OF SECTION 11 OF THE CREDIT AGREEMENT ARE INCORPORATED BY REFERENCE HEREIN AND APPLY MUTATIS MUTANDIS.,Venues,"{""clause_type"": ""References""}",References
+379,The Restricted Stock Units covered by this Award will be subject to adjustment as provided in Article X of the Plan.,Adjustments,"{""clause_type"": ""Adjustments""}",Adjustments
+380,The Common Stock to which the Performance Units covered by this Award relate will be subject to adjustment as provided in Article X of the Plan.,Adjustments,"{""clause_type"": ""Adjustments""}",Adjustments
+381,The shares of Common Stock subject to the Option may be adjusted or terminated in any manner as contemplated by Section 4.4 of the Plan.,Adjustments,"{""clause_type"": ""Adjustments""}",Adjustments
+382,The number of PSUs subject to this Award may be adjusted in any manner as contemplated by Section 14 of the Plan.,Adjustments,"{""clause_type"": ""Adjustments""}",Adjustments
+383,"Any adjustment, indulgence, forbearance or compromise that might be granted or given by Lender to Borrower, Operating Lessee or any Guarantor.",Adjustments,"{""clause_type"": ""Forbearances""}",Forbearances
+384,This Agreement shall be binding and deemed effective when executed by Borrowers and Lender the Lenders .,Effectiveness,"{""clause_type"": ""Effectiveness""}",Effectiveness
+385,This Agreement shall become effective as of the Effective Date upon its execution and delivery by all of the parties.,Effectiveness,"{""clause_type"": ""Effectiveness""}",Effectiveness
+386,"Except as expressly modified hereby, all terms and conditions of the Agreement shall remain in full force and effect.",Effectiveness,"{""clause_type"": ""Modifications""}",Modifications
+387,"Upon satisfaction of the conditions precedent in Section 3.1 , this Third Amendment shall be effective as of December 12, 2016.",Effectiveness,"{""clause_type"": ""Effectiveness""}",Effectiveness
+388,This Agreement shall become effective on the date hereof and shall thereupon amend and restate in full the Original Registration Rights Agreement.,Effectiveness,"{""clause_type"": ""Effectiveness""}",Effectiveness
+389,Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under this Agreement.,No Waivers,"{""clause_type"": ""Waivers""}",Waivers
+390,"Nothing herein shall constitute a waiver of the Anticipated Events of Default, as such term is defined in the Forbearance Agreement.",No Waivers,"{""clause_type"": ""Waivers""}",Waivers
+391,"Except as expressly supplemented hereby, the Security Agreement shall remain in full force and effect.",No Waivers,"{""clause_type"": ""Modifications""}",Modifications
+392,Failure to enforce any provision of this Agreement shall not constitute a waiver of any term or condition hereof.,No Waivers,"{""clause_type"": ""Waivers""}",Waivers
+393,No provision hereunder may be waived other than in a written instrument executed by the waiving party.,No Waivers,"{""clause_type"": ""Waivers""}",Waivers
+394,"No provision of this Agreement may be amended, modified, or waived except by written agreement signed by the parties hereto.",Modifications,"{""clause_type"": ""Amendments""}",Amendments
+395,"No change, modification or waiver of any term of this Agreement shall be valid unless it is in writing and signed by both parties.",Modifications,"{""clause_type"": ""Modifications""}",Modifications
+396,No modification of this Offer Letter shall be valid unless in writing and signed by you and an authorized representative of Crawford.,Modifications,"{""clause_type"": ""Modifications""}",Modifications
+397,This Agreement shall not be modified or amended except by an instrument in writing signed by ail Parties.,Modifications,"{""clause_type"": ""Modifications""}",Modifications
+398,"This Agreement may be amended, modified or terminated at any time by a writing executed by the Dealer Manager, the Company and the Escrow Agent.",Modifications,"{""clause_type"": ""Amendments""}",Amendments
+399,"Notwithstanding the claims procedures above, the following claims procedures shall apply for any claim based on a Disability.",Disability,"{""clause_type"": ""Disabilities""}",Disabilities
+400,"For purpose of this Option, “ Disability ” shall have the meaning set forth in your employment agreement, dated as of ____________.",Disability,"{""clause_type"": ""Disability""}",Disability
+401,Any unvested PSUs continue to vest. A prorated portion (as described below) of the unvested PSUs will be paid out on Vesting Date.,Disability,"{""clause_type"": ""Vesting""}",Vesting
+402,The Company may terminate the Executive’s employment due to the Executive’s Disability while such Disability exists.,Disability,"{""clause_type"": ""Disability""}",Disability
+403,"Policy ”), the unvested portion of the Restricted Stock Units (if any) will vest as of the termination date.",Disability,"{""clause_type"": ""Vesting""}",Vesting
+404,"This Lease constitutes the legal, valid and binding obligation of Lessor, enforceable against Lessor in accordance with its terms.",Enforceability,"{""clause_type"": ""Binding""}",Binding
+405,This Amendment shall inure to the benefit of and be enforceable against each of the Parties and their respective successors and assigns.,Enforceability,"{""clause_type"": ""Successors""}",Successors
+406,The provisions of this Agreement are intended to be and shall be enforceable under Section 510(a) of the Bankruptcy Code.,Enforceability,"{""clause_type"": ""Enforceability""}",Enforceability
+407,Judgment upon any award entered by an arbitrator may be entered in any court having jurisdiction over the parties.,Enforceability,"{""clause_type"": ""Judgments""}",Judgments
+408,The Corporation may satisfy any tax withholding obligations in respect of the Stock Units in accordance with Section 8.5 of the Plan.,Tax Withholdings,"{""clause_type"": ""Tax Withholdings""}",Tax Withholdings
+409,ISA will withhold all applicable taxes and amounts from payments under this Agreement as required by law.,Tax Withholdings,"{""clause_type"": ""Tax Withholdings""}",Tax Withholdings
+410,Any issuance of shares of Stock to the Participant shall be subject to tax withholding by the method or methods set forth in the Award Notice.,Tax Withholdings,"{""clause_type"": ""Tax Withholding""}",Tax Withholding
+411,The provisions of Section 15(d) of the Plan are incorporated herein by reference and made a part hereof.,Tax Withholdings,"{""clause_type"": ""Further Assurances""}",Further Assurances
+412,All payments made pursuant to this letter agreement will be subject to withholding of applicable taxes.,Tax Withholdings,"{""clause_type"": ""Withholding Taxes""}",Withholding Taxes
+413,This Agreement represents the entire agreement and understanding between the parties with respect to the subject matter hereof.,Integration,"{""clause_type"": ""Entire Agreements""}",Entire Agreements
+414,This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements.,Integration,"{""clause_type"": ""Entire Agreements""}",Entire Agreements
+415,This Agreement contains the entire understanding of the parties with respect to the subject matter hereof.,Integration,"{""clause_type"": ""Entire Agreements""}",Entire Agreements
+416,"Mortgagor hereby consents to personal jurisdiction in any state or Federal court located in Boston, Massachusetts or New York, New York.",Consent To Jurisdiction,"{""clause_type"": ""Jurisdictions""}",Jurisdictions
+417,The Company and the Executive agree and acknowledge that Section 7(d) of the Employment Agreement is incorporated herein by reference.,Non-Disparagement,"{""clause_type"": ""References""}",References
+418,"At all times, Executive agrees not to disparage the Company or otherwise make comments harmful to the Company’s reputation.",Non-Disparagement,"{""clause_type"": ""Reputation""}",Reputation
+419,"During the Term and for two (2) years thereafter, Executive will not make any statement which disparages or is derogatory of the Company. .",Non-Disparagement,"{""clause_type"": ""Disparagements""}",Disparagements
+420,The Parties shall not disparage the Releasees regarding the subject matter of the Released Claims or the Reconciliation Arbitration.,Non-Disparagement,"{""clause_type"": ""No Disparagements""}",No Disparagements
+421,Executive and the Company agree to continue to abide by the non-disparagement provisions of the Agreement.,Non-Disparagement,"{""clause_type"": ""Non-Disparagement""}",Non-Disparagement
+422,It has the power to own the Facilities and to carry on all business as is contemplated by this Agreement.,Powers,"{""clause_type"": ""Powers""}",Powers
+423,The Company has the corporate power to execute and deliver each of the Company Transaction Documents and to enter into its obligations thereunder.,Powers,"{""clause_type"": ""Powers""}",Powers
+424,The Board of Trustees may delegate to any committee appointed by the Board any of the powers of the Board of Trustees.,Powers,"{""clause_type"": ""Delegations""}",Delegations
+425,"The Owner will comply with all applicable Anti-Corruption Laws, applicable AML Laws and applicable Sanctions.",Sanctions,"{""clause_type"": ""Corruption""}",Corruption
+426,"(a) To the extent applicable, each Loan Party is in compliance in all material respects with the USA PATRIOT Act.",Sanctions,"{""clause_type"": ""Patriot Act""}",Patriot Act
+427,Directly or indirectly use the proceeds of any Advance or Letter of Credit for any purpose which would breach the Anti-Corruption Laws.,Anti-Corruption Laws,"{""clause_type"": ""Corruption""}",Corruption
+428,Directly or indirectly use the Letter of Credit or the proceeds of any Loan for any purpose which would breach any Anti-Corruption Laws.,Anti-Corruption Laws,"{""clause_type"": ""Corruption""}",Corruption
+429,"This Agreement shall be binding upon each of the Secured Parties, each of the Credit Parties hereto and their respective successors and assigns.",Assigns,"{""clause_type"": ""Successors""}",Successors
